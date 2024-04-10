@@ -5,12 +5,15 @@ This password generator is designed to create complex passwords consisting of ra
 ## Copy button
 
 A copy button is located next to the generated password for easy copying to the clipboard.
+
 ![Copy button](img/copy-button.jpg "Copy button")
 
 ## Password strength indicator
 
+The password strength indicator provides visual feedback on the strength of the generated password.
+
 ![strength indicator](img/strong-bar.jpg "strength indicator")
-The password strength indicator provides visual feedback on the strength of the generated password.  
+
 The colors represent:
 
 Red: Weak password  
@@ -20,9 +23,9 @@ Blue: Very strong password
 
 ## Adjustable length
 
-![length slider](img/length.jpg "length slider")
-
 Below the output window, there is a slider for selecting the password length.
+
+![length slider](img/length.jpg "length slider")
 
 ## Filters
 
