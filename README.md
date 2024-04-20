@@ -2,6 +2,8 @@
 
 This password generator is designed to create complex passwords consisting of random numbers, symbols, and letters.
 
+[Create password](https://denysbohdanenko.github.io/password-generator/)
+
 ## Copy button
 
 A copy button is located next to the generated password for easy copying to the clipboard.
